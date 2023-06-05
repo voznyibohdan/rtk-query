@@ -1,0 +1,16 @@
+.todo {
+    padding: 15px;
+    margin-bottom: 15px;
+
+    border: 1px solid blue;
+    border-radius: 5px;
+
+    display: flex;
+    justify-content: space-between;
+
+    width: 500px;
+}
+
+h3 {
+    margin: 0;
+}

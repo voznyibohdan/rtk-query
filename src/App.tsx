@@ -1,10 +1,11 @@
-import Counter from "./components/counter.tsx";
+import Todos from "./components/todos.tsx";
 
 function App() {
 	return (
 		<main>
 			<h1>React + RTK Query</h1>
-			<Counter />
+			{/*<Counter />*/}
+			<Todos />
 		</main>
 	)
 }
